@@ -5,12 +5,12 @@
 
 
 <p align="center">
-  <em>Frontend Developer | React Lover | UI/UX Enthusiast</em>
+  <em>Frontend Dasturchi</em>
 </p>
 
 ---
 
-### 🧑‍💻 Assalomu alaykum! Xumoyun.
+###  Assalomu alaykum! Xumoyun.
 Frontend sohasiga qiziqaman va zamonaviy web-texnologiyalar bilan ishlashni yoqtiraman. Har bir loyihamda dizayn, foydalanish qulayligi va kod sifati muhim rol o‘ynaydi.
 
 ---
